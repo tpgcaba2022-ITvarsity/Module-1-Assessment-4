@@ -1,0 +1,35 @@
+h1{
+    color: #2296C7;
+    font-size: 40px;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+}
+
+h2{
+   color: darkgreen;
+   font-family: Helvetica, sans-serif;
+   text-align: right;
+}
+
+h3{
+   font-family: Comic Snas, Comic Sans MS, sans-serif;
+}
+
+p{
+   font-weight: 800;
+   text-decoration: line-through;
+}
+
+table{
+      font-family: Helvetica, sans-serif;
+      border-collapse: collapse;
+      border-width: 1px;
+      border-style: solid;
+      border-color:#548940; 
+}
+
+th{
+    font-weight: 800;
+    background-color: #548940;
+    color: white;
+}
